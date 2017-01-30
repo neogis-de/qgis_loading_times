@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Loading_Times" >
+        <file>stopwatch.png</file>
+    </qresource>
+</RCC>
